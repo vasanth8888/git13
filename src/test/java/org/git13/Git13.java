@@ -13,8 +13,17 @@ public class Git13 {
 	}
 	
 	
+	private void jaysri3() {
+		// TODO Auto-generated method stub
+		 System.out.println(3);
+			
+	}
+	private void jaysri4() {
+		// TODO Auto-generated method stub
+		 System.out.println(4);
 	
 	
+	}
 	
 
 	public static void main(String[] args) {
